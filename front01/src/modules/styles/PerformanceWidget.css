@@ -1,0 +1,4 @@
+.PerformanceWidget{
+    display: flex;
+    flex-direction: column;
+}
